@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Animations/AS2dCharacterAnimator.controller
+    - Assets/Animations/LS2dCharacterAnimator.controller
+    - Assets/Prefabs/Armstrong.prefab
+    - Assets/Prefabs/Button.prefab
+    - Assets/Prefabs/Door.prefab
+    - Assets/Prefabs/Door.prefab.meta
+    - Assets/Prefabs/KeyDoor.prefab
+    - Assets/Prefabs/Ladder.prefab
+    - Assets/Prefabs/Lever.prefab
+    - Assets/Prefabs/Lift.prefab
+    - Assets/Prefabs/Lift.prefab.meta
+    - Assets/Prefabs/box.prefab
+    - Assets/Scenes/Level 1.unity
+    - Assets/Scripts/FallOffLevel.cs
+    - Assets/Scripts/FallOffLevel.cs.meta
+    - Assets/Scripts/MovingPlatform.cs
+    - Assets/Scripts/MovingPlatform.cs.meta
+    - Assets/Scripts/Player2Movement.cs
+    - Assets/Scripts/boostingMechanic.cs
+    - Assets/Scripts/buttonMechanics.cs
+    - Assets/Scripts/getMiddleCharacters.cs
+    - Assets/Scripts/leverMechanics.cs
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/Physics2DSettings.asset
+    - 
+    m_Values: 00000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
